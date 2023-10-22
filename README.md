@@ -25,3 +25,11 @@ Paper 혹은 spigot 버킷으로 실행합니다.
 
 /기초템관리 open - 기초 아이템 셋팅 메뉴를 엽니다.  
 /기초템관리 reload - 구성 설정을 재로드합니다.  
+
+## 인게임 실행 사진
+![기초템셋팅_사진](https://github.com/shady-sh/EllandBasicItem/assets/73597679/752e9e98-7f4e-4462-b7c0-fdd89792a90e)
+- 기초템을 셋팅하는 메뉴
+
+![2023-10-22_12 33 21](https://github.com/shady-sh/EllandBasicItem/assets/73597679/a29bb1bf-f5da-4226-b394-42118d2505bc)
+- 플레이어가 첫 접속 했을때 기초템이 지급되는 장면
+

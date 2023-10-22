@@ -28,9 +28,9 @@ Paper 혹은 spigot 버킷으로 실행합니다.
 
 ## MongoDB Collection 설명
 - RpgBasicItem (기초 아이템을 저장하는 Collection)
-- ![image](https://github.com/shady-sh/EllandBasicItem/assets/73597679/6e2c51c1-de3e-43b3-85c7-e2dd0e9a5601)
+  ![image](https://github.com/shady-sh/EllandBasicItem/assets/73597679/6e2c51c1-de3e-43b3-85c7-e2dd0e9a5601)
 - RpgBasicItemPlayer (플레이어가 처음 접속했는지 데이터를 담아두는곳)
-- ![image](https://github.com/shady-sh/EllandBasicItem/assets/73597679/758d0a88-cc50-4378-b659-3e3896f1723a)
+  ![image](https://github.com/shady-sh/EllandBasicItem/assets/73597679/758d0a88-cc50-4378-b659-3e3896f1723a)
 
 
 ## 인게임 실행 사진

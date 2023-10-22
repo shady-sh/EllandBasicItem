@@ -1,4 +1,4 @@
-# Elland-Potion (엘란드온라인 1.20.1 기초아이템 모듈)
+# Elland-Basic-Item (엘란드온라인 1.20.1 기초아이템 모듈)
 ## Version
 
 Java 16 버젼 이상을 사용해주세요  

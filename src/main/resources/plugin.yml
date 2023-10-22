@@ -1,0 +1,9 @@
+name: EllandBasicItem
+version: '${project.version}'
+main: com.elland.rpgsystems.ellandbasicitem.Main
+api-version: 1.20
+commands:
+  기초템관리:
+    aliases: [ 기초템셋팅, 기초템설정, 초기템관리, basic-item ]
+    permission: admin
+    usage: /<command>
